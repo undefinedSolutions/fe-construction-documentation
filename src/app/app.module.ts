@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ViewerComponent } from './viewer/viewer.component';
+import { Viewer2dComponent } from './viewer/viewer2d/viewer2d.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ViewerComponent,
+    Viewer2dComponent
   ],
   imports: [
     BrowserModule,
