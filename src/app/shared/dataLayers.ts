@@ -6,6 +6,11 @@ export const DataLayers = {
             orthoURL: 'https://undefined-solutions.de/fe-construction-documentation/20230219_Ortho_3857.tif'
             //demURL: '',
             //3dTileURL: ''
+        },
+        {
+            orthoURL: 'https://undefined-solutions.de/fe-construction-documentation/20230311_Ortho_3857.tif'
+            //demURL: '',
+            //3dTileURL: ''
         }
     ]
 }
